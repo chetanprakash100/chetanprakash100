@@ -1,6 +1,6 @@
 - 👋 Hi, Chetan Prakash Singh
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning .NET Core
 - 💞️ I’m looking to collaborate on a Big Project
 - 📫 How to reach me ? Email Contact: work.chetanprakash@gmail.com
 - 😄 Pronouns: He/Him
